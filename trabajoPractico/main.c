@@ -123,8 +123,15 @@ int main()
             printf("\n el resultado de la suma es %d \n",resultado);
             restaEnteros(primerOperando,segundoOperando,&resultado);
             printf("\n el resultado de la resta es %d \n",resultado);
-            divisionEnteros(primerOperando,segundoOperando,&resultadoDivision);
-            printf("\n el resultado de la division es %.2f \n",resultadoDivision);
+            if(segundoOperando!=0)
+               {
+                divisionEnteros(primerOperando,segundoOperando,&resultadoDivision);
+                printf("\n el resultado de la division es %.2f \n",resultadoDivision);
+                }
+                else
+                    {
+                        printf("\n ERROR no se puede dividir si el segundo operando es 0");
+                    }
             multiplicacionEnteros(primerOperando,segundoOperando,&resultado);
             printf("\n el producto de la multiplicacion es %d \n",resultado);
             if(primerOperando<15)
