@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1525365964 source:c:\users\lalo\desktop\facultad\trabajo practico 2\trabajopractico2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funciones.h"
+
+1525365952 c:\users\lalo\desktop\facultad\trabajo practico 2\trabajopractico2\funciones.h
+
+1525366888 source:c:\users\lalo\desktop\facultad\trabajo practico 2\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"persona.h"
+
+1525365685 c:\users\lalo\desktop\facultad\trabajo practico 2\trabajopractico2\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525369206 source:c:\users\lalo\desktop\facultad\trabajo practico 2\trabajopractico2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"funciones.h"
+
