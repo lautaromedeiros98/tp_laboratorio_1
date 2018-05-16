@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1526473386 source:c:\users\lalo\desktop\lautaro medeiros 1h\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1526469817 c:\users\lalo\desktop\lautaro medeiros 1h\cliente.h
+
+1526469646 c:\users\lalo\desktop\lautaro medeiros 1h\utn.h
+
+1526475518 source:c:\users\lalo\desktop\lautaro medeiros 1h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicacion.h"
+	"informes.h"
+
+1526384600 c:\users\lalo\desktop\lautaro medeiros 1h\publicacion.h
+	"cliente.h"
+
+1526469632 source:c:\users\lalo\desktop\lautaro medeiros 1h\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526473074 source:c:\users\lalo\desktop\lautaro medeiros 1h\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1526474008 source:c:\users\lalo\desktop\lautaro medeiros 1h\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1526473026 c:\users\lalo\desktop\lautaro medeiros 1h\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
