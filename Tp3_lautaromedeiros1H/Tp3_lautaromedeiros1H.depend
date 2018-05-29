@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1514136974 source:c:\users\lalo\desktop\tp3_lautaromedeiros1h\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1526304884 source:c:\users\lalo\desktop\tp3_lautaromedeiros1h\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526304884 c:\users\lalo\desktop\tp3_lautaromedeiros1h\utn.h
+
+1527613985 source:c:\users\lalo\desktop\tp3_lautaromedeiros1h\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"movie.h"
+
+1527613789 c:\users\lalo\desktop\tp3_lautaromedeiros1h\movie.h
+
