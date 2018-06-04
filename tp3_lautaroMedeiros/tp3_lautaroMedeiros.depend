@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1528076345 source:c:\users\lalo\desktop\tp3_lautaromedeiros\funciones.c
+	"movie.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1528076337 c:\users\lalo\desktop\tp3_lautaromedeiros\movie.h
+
+1528072169 c:\users\lalo\desktop\tp3_lautaromedeiros\utn.h
+
+1528074407 source:c:\users\lalo\desktop\tp3_lautaromedeiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"movie.h"
+	"utn.h"
+
+1528074268 source:c:\users\lalo\desktop\tp3_lautaromedeiros\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1528076325 source:c:\users\lalo\desktop\tp3_lautaromedeiros\movie.c
+	"movie.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1528072575 c:\users\lalo\desktop\tp3_lautaromedeiros\funciones.h
+	"movie.h"
+
